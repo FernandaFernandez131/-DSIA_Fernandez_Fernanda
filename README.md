@@ -53,5 +53,5 @@ Instancias de Entrega:
 • Entrega 2: Análisis exploratorio de datos y preparación de la información.  
 • Entrega 3: Implementación del modelo o solución propuesta.  
 • Entrega Final: Presentación del proyecto, visualización de resultados y storytelling.  
-Enlace: 004-TPI/  
+Enlace: 004-TPI/004 - Trabajo Practico Integrador  
   
